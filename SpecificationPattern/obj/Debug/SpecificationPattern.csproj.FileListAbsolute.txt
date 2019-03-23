@@ -1,0 +1,6 @@
+D:\SpecificationPattern\SpecificationPattern\obj\Debug\SpecificationPattern.csproj.CoreCompileInputs.cache
+D:\SpecificationPattern\SpecificationPattern\bin\Debug\SpecificationPattern.exe.config
+D:\SpecificationPattern\SpecificationPattern\bin\Debug\SpecificationPattern.exe
+D:\SpecificationPattern\SpecificationPattern\bin\Debug\SpecificationPattern.pdb
+D:\SpecificationPattern\SpecificationPattern\obj\Debug\SpecificationPattern.exe
+D:\SpecificationPattern\SpecificationPattern\obj\Debug\SpecificationPattern.pdb
